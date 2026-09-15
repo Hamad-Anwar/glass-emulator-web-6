@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/((?!assets/|canvaskit/|icons/).*)", "destination": "/index.html" }
+    { "source": "/((?!assets/|canvaskit/|icons/|splash/).*)", "destination": "/index.html" }
   ],
   "headers": [
     {
